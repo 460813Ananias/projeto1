@@ -1,2 +1,3 @@
 # projeto1
- primeiro repositorio versionado
+ primeiro repositorio versionado Git e Github
+ repositório criado para projetos
